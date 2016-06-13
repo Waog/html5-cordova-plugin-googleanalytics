@@ -1,8 +1,15 @@
 {
   "project": {
-    "projectSettingsVersion": "1.1",
+    "projectSettingsVersion": "3.0.0",
     "initialAutoPluginCount": 0,
     "projectFiles": {},
-    "projectDirectories": {}
+    "projectDirectories": {},
+    "currentBuildConfiguration": "Android"
+  },
+  "build-tab": {
+    "selectedTargets": []
+  },
+  "editorTab": {
+    "currentEditorMode": 0
   }
 }
